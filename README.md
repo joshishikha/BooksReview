@@ -1,5 +1,5 @@
 # BooksReview
-My personal website past of GWC-1 consists of web front end development. It highlights about my hobbies specifcally towards books, links to Good reads and review.
+My personal website past of Girls Who Code summer bootcamp - web front end development. It highlights about my hobbies specifcally towards books, links to Good reads and review.
 
 Client-side technologies:
 
